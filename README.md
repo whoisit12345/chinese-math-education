@@ -1,6 +1,6 @@
 # 中国数学教辅书籍
 
-## 初中
+## [初中](./books/secondary-school/)
 
 ### [小蓝本初中卷](./books/secondary-school/小蓝本初中卷/)
 
