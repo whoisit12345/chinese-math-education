@@ -1,5 +1,28 @@
 # 中国数学教辅书籍
 
+## [高中](./books/high-school/)
+
+### [小蓝本高中卷](./books/high-school/小蓝本高中卷/)
+
+- [《小蓝本高中卷 1：集合.pdf》](<./books/high-school/小蓝本高中卷/小蓝本高中卷1 集合.pdf>)
+- [《小蓝本高中卷 2：函数与函数方程.pdf》](<./books/high-school/小蓝本高中卷/小蓝本高中卷2 函数与函数方程.pdf>)
+- [《小蓝本高中卷 3：三角函数.pdf》](<./books/high-school/小蓝本高中卷/小蓝本高中卷3 三角函数.pdf>)
+- [《小蓝本高中卷 4：均值不等式与柯西不等式.pdf》](<./books/high-school/小蓝本高中卷/小蓝本高中卷4 均值不等式与柯西不等式.pdf>)
+- [《小蓝本高中卷 5：数列与数学归纳法.pdf》](<./books/high-school/小蓝本高中卷/小蓝本高中卷5 数列与数学归纳法.pdf>)
+- [《小蓝本高中卷 6：复数与向量.pdf》](<./books/high-school/小蓝本高中卷/小蓝本高中卷6 复数与向量.pdf>)
+- [《小蓝本高中卷 7：解析几何.pdf》](<./books/high-school/小蓝本高中卷/小蓝本高中卷7 解析几何.pdf>)
+- [《小蓝本高中卷 8：高中数学竞赛中的解题方法与策略.pdf》](<./books/high-school/小蓝本高中卷/小蓝本高中卷8 高中数学竞赛中的解题方法与策略.pdf>)
+- [《小蓝本高中卷 9：不等式的解题与技巧.pdf》](<./books/high-school/小蓝本高中卷/小蓝本高中卷9 不等式的解题与技巧.pdf>)
+- [《小蓝本高中卷 10：几何不等式.pdf》](<./books/high-school/小蓝本高中卷/小蓝本高中卷10 几何不等式.pdf>)
+- [《小蓝本高中卷 11：平面几何.pdf》](<./books/high-school/小蓝本高中卷/小蓝本高中卷11 平面几何.pdf>)
+- [《小蓝本高中卷 12：面积与面积方法.pdf》](<./books/high-school/小蓝本高中卷/小蓝本高中卷12 面积与面积方法.pdf>)
+- [《小蓝本高中卷 13：复数与几何.pdf》](<./books/high-school/小蓝本高中卷/小蓝本高中卷13 复数与几何.pdf>)
+- [《小蓝本高中卷 14：点几何解题.pdf》](<./books/high-school/小蓝本高中卷/小蓝本高中卷14 点几何解题.pdf>)
+- [《小蓝本高中卷 15：数论.pdf》](<./books/high-school/小蓝本高中卷/小蓝本高中卷15 数论.pdf>)
+- [《小蓝本高中卷 16：组合数学.pdf》](<./books/high-school/小蓝本高中卷/小蓝本高中卷16 组合数学.pdf>)
+- [《小蓝本高中卷 17：图论.pdf》](<./books/high-school/小蓝本高中卷/小蓝本高中卷17 图论.pdf>)
+- [《小蓝本高中卷 18：组合极限.pdf》](<./books/high-school/小蓝本高中卷/小蓝本高中卷18 组合极限.pdf>)
+
 ## [初中](./books/secondary-school/)
 
 ### [小蓝本初中卷](./books/secondary-school/小蓝本初中卷/)
